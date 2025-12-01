@@ -3,7 +3,7 @@ Mitigating Fine-tuning Bias: A Parameter-Efficient Debiasing Framework for Large
 
 tuning_data —— train set
 
-test —— test set
+test_data —— test set
 
 biased_data —— biased train set
 

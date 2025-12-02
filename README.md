@@ -13,5 +13,4 @@ Fine-tuning based on Lora：https://github.com/hiyouga/LLaMA-Factory
 
 Config：Lora fine-tuning config
 
-# More detailed training param
-the max token length=1024, dropout=0.0, temperature=0.7, top_k=20, top_p=0.8.
+More detailed training param：the max token length=1024, dropout=0.0, temperature=0.7, top_k=20, top_p=0.8.
